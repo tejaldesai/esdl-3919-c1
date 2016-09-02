@@ -11,3 +11,4 @@ int subtract(int p,q)
 {
   return p-q;
 }
+int multiply();
